@@ -1,0 +1,12 @@
+# Dependências
+node_modules/
+
+# Build
+dist/
+
+# Configuração local
+.env
+
+# Editor/IDE
+.vscode/
+*.log
